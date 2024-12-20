@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Startup Recommendation for PrimeStap from ADB Bank 2025",
+    title: "Startup Recommendation for PrimeStep from ADB Bank 2025",
     cardImage: "assets/images/experience-page/ia_pitching.jpg",
     description:
       "Recognized by ADB Bank for innovative solutions in sustainable business and community empowerment.",
