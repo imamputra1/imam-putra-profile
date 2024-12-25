@@ -16,16 +16,20 @@ body * {
   opacity: 0;
   transform: translate(-50%, -50%);
   transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+  -webkit-transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+  -moz-transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+  -ms-transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+  -o-transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
 }
 
 .cursor-dot {
   width: 10px;
   height: 10px;
-  background-color: #b83030f1;
+  background-color: #fafa02;
 }
 
 .cursor-dot-outline {
   width: 20px;
   height: 20px;
-  background-color: rgba(211, 115, 115, 0.959);
+  background-color: rgba(214, 151, 4, 0.959);
 }

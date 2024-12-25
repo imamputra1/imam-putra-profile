@@ -10,14 +10,16 @@ const moocscards = [
     moocLink: "https://www.coursera.org/browse/data-science",
   },
   {
-    title: "Cryptography",
+    title: "Modern React with Redux",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink:
+      "https://www.udemy.com/course/react-redux/?couponCode=KEEPLEARNING",
   },
   {
-    title: "Machine Learning",
+    title: "Internet of Things: Sensing and Actuation From Devices",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink:
+      "https://www.coursera.org/learn/internet-of-things-sensing-actuation",
   },
   {
     title: "Introduction to HTML 5",
@@ -30,14 +32,16 @@ const moocscards = [
     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
   },
   {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    title: "Google Data Analytics Professional Certificate",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:
+      "https://www.coursera.org/professional-certificates/google-data-analytics",
   },
   {
-    title: "Bootstrap 4",
+    title: "Microservices with Node JS and React",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink:
+      "https://www.udemy.com/course/microservices-with-node-js-and-react/?couponCode=KEEPLEARNING",
   },
   {
     title: "Intro to React",
@@ -45,10 +49,9 @@ const moocscards = [
     moocLink: "https://www.edx.org/learn/reactjs",
   },
   {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+    title: "Fullstack Developer PHP, Laravel, Vue JS, dan Nuxt JS",
+    cardImage: "assets/images/education-page/fast-campus.png",
+    moocLink: "https://fastcampus.com/id/products/dev_online_laravel",
   },
   {
     title: "NodeJS, Express and MongoDB",
@@ -56,15 +59,16 @@ const moocscards = [
     moocLink: "https://www.coursera.org/learn/server-side-nodejs",
   },
   {
-    title: "XML-AJAX",
+    title: "Node JS: Advanced Concepts",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    moocLink:
+      "https://www.udemy.com/course/advanced-node-for-developers/?couponCode=KEEPLEARNING",
   },
   {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
+    title: "Developing AI Applications with Python and Flask",
+    cardImage: "assets/images/education-page/coursera2.svg",
     moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+      "https://www.coursera.org/learn/python-project-for-ai-application-development",
   },
 ];
 
