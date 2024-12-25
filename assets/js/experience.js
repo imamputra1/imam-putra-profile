@@ -5,14 +5,14 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Founder & Chief executive officer Angkut Ternak Indonesia",
+    title: "Hackert of Angkut Ternak Indonesia",
     cardImage: "assets/images/experience-page/logo_ang_ter.png",
     place: "Special Region of Yogyakarta",
     time: "(Feb, 2024 - Present)",
     desp: "<li>Increase average farmer income by 15% through distribution efficiency.</li> <li>Initiated an empowerment program for +20 young breeders in rural areas in D.I. Yogykarta and Central Java.</li> <li>Develop an IoT system “LivestockSense” for monitoring vital signs of livestock during transportation.</li>",
   },
   {
-    title: "Owner of the Cipta Website",
+    title: "Developer of the Cipta Website",
     cardImage: "assets/images/experience-page/logo_cw.png",
     place: "Special Region of Yogyakarta",
     time: "(Jun, 2024 - Present)",
